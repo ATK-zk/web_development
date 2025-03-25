@@ -1,7 +1,7 @@
 # EMCPapp
 
 ## 🌟 Overview
-EMCPapp is a web application built using **HTML, CSS, and JavaScript**, designed to provide a seamless and beautiful user experience.
+EMCPapp is a web application built using **HTML, CSS, and JavaScript** designed to provide a seamless and beautiful user experience.
 
 🔗 **Demo:** [Click here to view the website](https://ecmp.vercel.app)
 
